@@ -10,11 +10,8 @@
  ***
 
  ## Aboul me
- <p class="justify"> I am not afraid of difficulties, I like to learn new things, develop in an intellectual sense and improve myself! Previously, my work was not related to the IT sphere, but I sincerely believe that I will succeed!
- <style>
- .justify {text-align: justify;}
-</style>
-</p>
+ <div align="justify"> I am not afraid of difficulties, I like to learn new things, develop in an intellectual sense and improve myself! Previously, my work was not related to the IT sphere, but I sincerely believe that I will succeed!
+</div>
 
 ***
 
